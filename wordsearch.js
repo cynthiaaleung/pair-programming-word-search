@@ -1,3 +1,5 @@
+// Pair programming activity done with @faezcat
+
 const wordSearch = (letters, word) => {
   
   if (letters.length === 0 || (!word)) {
